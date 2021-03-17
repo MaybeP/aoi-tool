@@ -1,0 +1,13 @@
+{
+  "数据库配置mySql": {
+    "host": "192.168.1.144",
+    "user": "root",
+    "port": "3318",
+    "password": "mastercom168",
+    "database": "upos_city_main"
+  },
+  "其它配置": {
+    "aoi抽稀阈值": 1000,
+    "aoi抽稀误差": 2000
+  }
+}

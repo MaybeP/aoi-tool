@@ -1,0 +1,2 @@
+const pos = require('./postion_translate')
+export default pos
